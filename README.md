@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi, I'm Saeed Soukiah! 👋  
 
-<!--
-**Saeed-Soukiah/Saeed-Soukiah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a master's student in **Computers and Computer Network Engineering** at Damascus University, currently researching **web application vulnerability detection using machine learning**.  
+I also work as a **teacher** at Ittihad Private University and Damascus University.  
 
-Here are some ideas to get you started:
+### 🛠️ Skills & Interests  
+- 🔍 **Cybersecurity & Networking** (Currently Learning)  
+- 🤖 **Embedded Systems** (ESP32, Arduino, AVR, PIC)  
+- 💻 **Programming**:  
+   - **C++**  
+   - **Python** (Currently Learning)  
+   - **JavaScript** (Currently Learning)  
+   - **HTML**, **CSS**  
+   - **Embedded C**  
+- 🌍 **Web Development** (Currently Learning)  
+- 🤖 **Machine Learning** (Currently Learning)  
+- 🛠️ **Electronics**: Created circuits and experience in **fixing and maintenance**  
+- 😄 **Pronouns**: He  
+- 🤔 **I’m looking for help with**: Offensive AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ Fun Fact  
+- I love playing **video games** and watching **movies** in my free time.  
+- I enjoy tackling technical challenges and learning new programming languages for fun.  
+- I’m passionate about discovering new tech and gadgets, especially related to **embedded systems**!  
+- I enjoy **reading books** a lot, including topics like **body language**, **philosophy**, **physical hacking**, **networking**, **programming**, **electronics**, **psychology**, **Islamic religion**, and **stories**.  
+- I'm a fan of **LEGO** and building creative structures.  
+- I like **Programming** as a hobby.  
+
+### 🌍 Languages  
+- **English**: Fluent  
+- **German**: A1 level  
+
+### 📫 Connect with Me  
+- GitHub: [Saeed-Soukiah](https://github.com/Saeed-Soukiah)  
+- Facebook: [Saeed Soukiah](https://www.facebook.com/saed.sokiah)  
+- Email: [saeedsoukiah@gmail.com]  
