@@ -16,4 +16,4 @@ I'm a Master's student in **Computer Engineering and Networks** At Damascus Univ
 - **AI & Machine Learning:** Projects spanning emotion detection to smart assistants
 - **AI Automation**
 - **Gaming & Fun:** A reactive mind for classics like Pong, Tetris, and Space Invaders
-- **Unity & AR:** A reactive programming and apps using unity and vuforia 
+- **Unity & Games & AR:** A reactive programming and apps using unity and vuforia 
